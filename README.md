@@ -8,7 +8,7 @@ It uses [simple-MVC](https://github.com/simple-mvc-framework/framework) to struc
 
 Requirements
 ============
-To make it work you need to crawl the www.htw-berlin.de and store it to a postgreSQl database.
+To make it work you need to crawl www.htw-berlin.de and store it to a postgreSQl database.
 This can be done with the [LSFEventScraper](https://github.com/pascalweiss/LSFEventScraper)
 
 Configuration
